@@ -9,4 +9,4 @@ DAY 1: MAY 8TH 2025 [SORTING AND GROUPING]
 3. Classes more than 5 students
 4. Find Followers Count
 5. Biggest Single Number
-6. 
+ 
